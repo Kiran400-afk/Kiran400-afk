@@ -1,19 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=300&section=header&text=KIRAN%20B%20NANDANI&fontSize=90&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=300&section=header&text=&fontSize=90&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
 
-  <table width="100%">
-    <tr>
-      <td width="20%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6NXN4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppcH3697qME/giphy.gif" width="150" />
-      </td>
-      <td width="60%" align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=%E2%9C%A7+NEURAL+SYMBIOSIS+INITIATED+%E2%9C%A7;%E2%9C%A7+MAHIRU+AI+CORE+ACTIVE+%E2%9C%A7;%E2%9C%A7+IMA+PROTOCOL+LOADED+%E2%9C%A7" alt="Typing SVG" />
-      </td>
-      <td width="20%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6NXN4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppcH3697qME/giphy.gif" width="150" />
-      </td>
-    </tr>
-  </table>
+  <div style="margin-top: -150px; position: relative; z-index: 10;">
+    <table width="100%">
+      <tr>
+        <td width="20%" align="center">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6NXN4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppcH3697qME/giphy.gif" width="150" />
+        </td>
+        <td width="60%" align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=00D2FF&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=KIRAN+B+NANDANI;%E2%9C%A7+CYBER+ARCHITECT+%E2%9C%A7;%E2%9C%A7+SYSTEM+ACTIVE+%E2%9C%A7" alt="Elite Name Animation" />
+          <br>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=500&color=7000FF&center=true&vCenter=true&width=500&lines=INITIALIZING+CORE+DIRECTIVES...;UPLINKING+NEURAL+ARRAY...;LOADED:+IMA_PROTOCOL_v4.0" />
+        </td>
+        <td width="20%" align="center">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6NXN4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppcH3697qME/giphy.gif" width="150" />
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
@@ -52,7 +56,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Veerta+aur+Vivek;Valour+and+Wisdom;Dream:+Indian+Military+Academy" />
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYzeXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="400" alt="IMA Dedication" />
+  <img src="https://media.giphy.com/media/u0MzkI2yX0qgo/giphy.gif" width="400" alt="IMA Dedication" />
 </div>
 
 ---
@@ -110,11 +114,11 @@
 ### 🏆 [ARCHIVE] Achievement Protocol
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiran400-afk&theme=neon&no-bg=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kiran400-afk&theme=tokyonight&no-bg=true&margin-w=10&column=6" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiran400-afk&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&text_color=00D2FF&icon_color=7000FF&title_color=7000FF&border_radius=15&count_private=true" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiran400-afk&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&text_color=00D2FF&icon_color=7000FF&title_color=7000FF&border_radius=15&count_private=true&include_all_commits=true" width="85%" />
 </div>
 
 ---
@@ -139,12 +143,12 @@
       </td>
       <td width="50%" align="center">
         <code>[PROTOCOL: COMMIT_DENSITY_MAP]</code><br>
-        <code>[SYSTEM WARNING: SUCCESS_IN_PROGRESS]</code>
+        <code>[SYSTEM STATUS: ONLINE]</code>
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://raw.githubusercontent.com/kiran400-afk/kiran400-afk/main/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/kiran400-afk/kiran400-afk/master/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </div>
 
 <p align="center">
