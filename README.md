@@ -4,7 +4,7 @@
   <table width="100%">
     <tr>
       <td width="20%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6NXN4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppcH3697qME/giphy.gif" width="150" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6NXN4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppcH3697qME/giphy.gif" width="150" />
       </td>
       <td width="60%" align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=%E2%9C%A7+NEURAL+SYMBIOSIS+INITIATED+%E2%9C%A7;%E2%9C%A7+MAHIRU+AI+CORE+ACTIVE+%E2%9C%A7;%E2%9C%A7+IMA+PROTOCOL+LOADED+%E2%9C%A7" alt="Typing SVG" />
@@ -52,7 +52,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Veerta+aur+Vivek;Valour+and+Wisdom;Dream:+Indian+Military+Academy" />
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYzeXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="400" alt="IMA Dedication" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYzeXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="400" alt="IMA Dedication" />
 </div>
 
 ---
@@ -63,8 +63,8 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <a href="https://github.com/Kiran400-afk/Kiran400-afk" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran400-afk&repo=Kiran400-afk&theme=neon&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&icon_color=00D2FF&hide_border=true" width="100%" />
+        <a href="https://github.com/kiran400-afk" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiran400-afk&repo=kiran400-afk&theme=neon&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&icon_color=00D2FF&hide_border=true" width="100%" />
         </a>
         <br>
         <code>PROTOCOL: MAHIRU_AI</code>
@@ -72,8 +72,8 @@
     </td>
     <td width="50%">
       <div align="center">
-        <a href="https://github.com/Kiran400-afk/Kiran400-afk" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran400-afk&repo=Kiran400-afk&theme=neon&bg_color=0D1117&title_color=7000FF&text_color=FFFFFF&icon_color=7000FF&hide_border=true" width="100%" />
+        <a href="https://github.com/kiran400-afk" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiran400-afk&repo=kiran400-afk&theme=neon&bg_color=0D1117&title_color=7000FF&text_color=FFFFFF&icon_color=7000FF&hide_border=true" width="100%" />
         </a>
         <br>
         <code>PROTOCOL: CAREERCRAFT</code>
@@ -96,10 +96,10 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran400-afk&layout=compact&theme=neon&hide_border=true&bg_color=0D1117&text_color=00D2FF&title_color=7000FF&icon_color=00D2FF" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran400-afk&layout=compact&theme=neon&hide_border=true&bg_color=0D1117&text_color=00D2FF&title_color=7000FF&icon_color=00D2FF" width="100%" height="165px" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran400-afk&theme=neon&hide_border=true&background=0D1117&stroke=7000FF&ring=00D2FF&fire=00D2FF&currStreakNum=00D2FF&sideNums=00D2FF&sideLabels=00D2FF&dates=7000FF" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran400-afk&theme=neon&hide_border=true&background=0D1117&stroke=7000FF&ring=00D2FF&fire=00D2FF&currStreakNum=00D2FF&sideNums=00D2FF&sideLabels=00D2FF&dates=7000FF" width="100%" height="165px" />
       </td>
     </tr>
   </table>
@@ -113,9 +113,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kiran400-afk&theme=neon&no-bg=true&margin-w=10&column=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiran400-afk&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&text_color=00D2FF&icon_color=7000FF&title_color=7000FF&border_radius=15" width="85%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiran400-afk&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&text_color=00D2FF&icon_color=7000FF&title_color=7000FF&border_radius=15&count_private=true" width="85%" />
+</div>
 
 ---
 
@@ -132,11 +132,19 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiran400-afk&label=SCAN_LOGS&color=00D2FF&style=plastic" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://komarev.com/ghpvc/?username=kiran400-afk&label=SCAN_LOGS&color=00D2FF&style=plastic" />
+      </td>
+      <td width="50%" align="center">
+        <code>[PROTOCOL: COMMIT_DENSITY_MAP]</code><br>
+        <code>[SYSTEM WARNING: SUCCESS_IN_PROGRESS]</code>
+      </td>
+    </tr>
+  </table>
   <br>
-  <code>[SYSTEM WARNING: SUCCESS_IN_PROGRESS]</code>
-  <br>
-  <img src="https://raw.githubusercontent.com/Kiran400-afk/Kiran400-afk/main/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/kiran400-afk/kiran400-afk/main/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </div>
 
 <p align="center">
