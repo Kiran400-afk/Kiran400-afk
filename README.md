@@ -1,44 +1,126 @@
-<h1 align="center">Hi 👋, I'm KIRAN B NANDANI</h1>
-<h3 align="center">A passionate Machine learning & Web development</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=300&section=header&text=KIRAN%20B%20NANDANI&fontSize=90&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran400-afk&label=Profile%20views&color=0e75b6&style=flat" alt="kiran400-afk" /> </p>
+  <table width="100%">
+    <tr>
+      <td width="20%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYzeXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppcH3697*REMOVED*giphy.gif" width="150" />
+      </td>
+      <td width="60%" align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=%E2%9C%A7+NEURAL+SYMBIOSIS+INITIATED+%E2%9C%A7;%E2%9C%A7+MAHIRU+AI+CORE+ACTIVE+%E2%9C%A7;%E2%9C%A7+CYBERNETIC+ARCHITECT+%E2%9C%A7" alt="Typing SVG" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYzeXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eWx4eXN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppcH3697*REMOVED*giphy.gif" width="150" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiran400-afk" alt="kiran400-afk" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/kiran nandani" target="blank"><img src="https://img.shields.io/twitter/follow/kiran nandani?logo=twitter&style=for-the-badge" alt="kiran nandani" /></a> </p>
+### 🖥️ [SYSCK] System Diagnostic
 
-- 🔭 I’m currently working on [CareerCraft AI](https://github.com/Kiran400-afk/Kiran400-afk)
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <b>[STATUS]</b><br>
+      <img src="https://img.shields.io/badge/HEART_RATE-STABLE-00D2FF?style=flat-square&logo=activity&logoColor=black" />
+    </td>
+    <td width="33%" align="center">
+      <b>[UPTIME]</b><br>
+      <img src="https://img.shields.io/badge/UPTIME-99.9%25-7000FF?style=flat-square&logo=server&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <b>[LATENCY]</b><br>
+      <img src="https://img.shields.io/badge/LATENCY-5ms-00D2FF?style=flat-square&logo=speedtest&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **Machine Learning, Neural Learning, Prompt engineering**
+<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kiran400-afk/Kiran400-afk](https://github.com/Kiran400-afk/Kiran400-afk)
+> [!NOTE]
+> **Identity**: Kiran B Nandani  
+> **Class**: ML Alchemist / Full-Stack Cyber-Architect  
+> **Directives**: Building autonomous intelligence & high-performance neural engines.
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kiran-nandani-73b955309/](https://www.linkedin.com/in/kiran-nandani-73b955309/)
+---
 
-- 💬 Ask me about **for the project collaboration**
+### 🛰️ [UPLINK] Active Operations
 
-- 📫 How to reach me **nandanikiran66@gmail.com**
+<table align="center">
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran400-afk&repo=Kiran400-afk&theme=tokyonight&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&icon_color=00D2FF&hide_border=true" width="100%" />
+        <br>
+        <code>PROTOCOL: MAHIRU_AI</code>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran400-afk&repo=Kiran400-afk&theme=tokyonight&bg_color=0D1117&title_color=7000FF&text_color=FFFFFF&icon_color=7000FF&hide_border=true" width="100%" />
+        <br>
+        <code>PROTOCOL: CAREERCRAFT</code>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences [soon](soon)
+---
 
-- ⚡ Fun fact **I treat all equally**
+### 🧩 [NEURAL_ARRAY] Technology Interface
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kiran nandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiran nandani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiran-nandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran-nandani" height="30" width="40" /></a>
-<a href="https://fb.com/kiran nandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiran nandani" height="30" width="40" /></a>
-<a href="https://instagram.com/lt_kiran_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lt_kiran_n" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kiran nandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kiran nandani" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nandanikiran66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nandanikiran66" height="30" width="40" /></a>
-<a href="https://discord.gg/KIRANOP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KIRANOP" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,typescript,js,php,tensorflow,pytorch,opencv,react,nextjs,tailwind,flutter,firebase,docker,gcp,linux,mysql,mongodb,postman,figma&perline=10&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="48%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran400-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00D2FF&title_color=7000FF" width="100%" />
+      </td>
+      <td width="48%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran400-afk&theme=tokyonight&hide_border=true&background=0D1117&stroke=7000FF&ring=00D2FF&fire=00D2FF&currStreakNum=00D2FF" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏆 [ARCHIVE] Achievement Protocol
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiran400-afk&theme=tokyonight&no-bg=true&margin-w=10&column=6" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiran400-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00D2FF&icon_color=7000FF&title_color=7000FF" width="80%" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran400-afk&show_icons=true&locale=en&layout=compact" alt="kiran400-afk" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiran400-afk&show_icons=true&locale=en" alt="kiran400-afk" /></p>
+### 📡 [NET_LINKS] External Uplinks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran400-afk&" alt="kiran400-afk" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/kiran-nandani-73b955309/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-00D2FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://twitter.com/kiran_nandani" target="blank"><img src="https://img.shields.io/badge/X_ARRAY-000000?style=for-the-badge&logo=x&logoColor=00D2FF" /></a>
+  <a href="https://discord.gg/KIRANOP" target="blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:nandanikiran66@gmail.com"><img src="https://img.shields.io/badge/TERMINAL-7000FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiran400-afk&label=SCAN_LOGS&color=00D2FF&style=plastic" />
+  <br>
+  <code>[SYSTEM WARNING: SUCCESS_IN_PROGRESS]</code>
+  <br>
+  <img src="https://raw.githubusercontent.com/Kiran400-afk/Kiran400-afk/main/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+</div>
+
+<p align="center">
+  <i>"The boundary between man and machine is data."</i>
+</p>
